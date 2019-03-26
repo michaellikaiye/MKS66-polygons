@@ -1,0 +1,900 @@
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 0
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img0.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 8
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img1.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 16
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img2.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 24
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img3.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 32
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img4.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 40
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img5.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 48
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img6.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 56
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img7.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 64
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img8.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 72
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img9.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 80
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img10.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 88
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img11.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 96
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img12.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 104
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img13.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 112
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img14.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 120
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img15.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 128
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img16.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 136
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img17.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 144
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img18.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 152
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img19.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 160
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img20.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 168
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img21.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 176
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img22.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 184
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img23.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 192
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img24.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 200
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img25.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 208
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img26.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 216
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img27.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 224
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img28.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 232
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img29.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 240
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img30.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 248
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img31.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 256
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img32.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 264
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img33.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 272
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img34.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 280
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img35.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 288
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img36.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 296
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img37.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 304
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img38.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 312
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img39.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 320
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img40.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 328
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img41.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 336
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img42.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 344
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img43.png
+clear
+
+torus
+-87 0 0 30 60
+torus
+43 0 75 30 60
+torus
+43 0 -75 30 60
+scale
+2 2 2
+ident
+rotate
+y 352
+rotate
+x 40
+move
+250 250 0
+apply
+save
+img44.png
+clear

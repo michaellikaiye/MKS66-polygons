@@ -11,13 +11,13 @@ The file follows the following format:
 
          sphere: add a sphere to the POLYGON matrix -
                  takes 4 arguemnts (cx, cy, cz, r)
-         torus: add a torus to the POLYGON matrix - 
+         torus: add a torus to the POLYGON matrix -
                 takes 5 arguemnts (cx, cy, cz, r1, r2)
-         box: add a rectangular prism to the POLYGON matrix - 
-              takes 6 arguemnts (x, y, z, width, height, depth)	    
+         box: add a rectangular prism to the POLYGON matrix -
+              takes 6 arguemnts (x, y, z, width, height, depth)
          clear: clears the edge and POLYGON matrices
 
-	 circle: add a circle to the edge matrix - 
+	 circle: add a circle to the edge matrix -
 	         takes 4 arguments (cx, cy, cz, r)
 	 hermite: add a hermite curve to the edge matrix -
 	          takes 8 arguments (x0, y0, x1, y1, rx0, ry0, rx1, ry1)
@@ -68,19 +68,19 @@ def parse_file( fname, edges, polygons, transform, screen, color ):
 
         if line == 'sphere':
             #print 'SPHERE\t' + str(args)
-            add_sphere(edges,
+            add_sphere(polygons,
                        float(args[0]), float(args[1]), float(args[2]),
                        float(args[3]), step_3d)
 
         elif line == 'torus':
             #print 'TORUS\t' + str(args)
-            add_torus(edges,
+            add_torus(polygons,
                       float(args[0]), float(args[1]), float(args[2]),
                       float(args[3]), float(args[4]), step_3d)
 
         elif line == 'box':
             #print 'BOX\t' + str(args)
-            add_box(edges,
+            add_box(polygons,
                     float(args[0]), float(args[1]), float(args[2]),
                     float(args[3]), float(args[4]), float(args[5]))
 
@@ -133,17 +133,20 @@ def parse_file( fname, edges, polygons, transform, screen, color ):
 
         elif line == 'apply':
             matrix_mult( transform, edges )
+            matrix_mult(transform, polygons)
 
         elif line == 'clear':
             edges = []
-            
+            polygons = []
+
         elif line == 'display' or line == 'save':
             clear_screen(screen)
             draw_lines(edges, screen, color)
+            draw_polygons(polygons, screen, color)
 
             if line == 'display':
                 display(screen)
             else:
                 save_extension(screen, args[0])
-            
+
         c+= 1
