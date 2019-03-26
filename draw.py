@@ -10,6 +10,9 @@ def norm(v):
 def cross(a,b):
     return [a[1]*b[2]-a[2]*b[1], a[2]*b[0]-a[0]*b[2], a[0]*b[1]-a[1]*b[0]]
 
+def dot(a,b):
+    return a[0]*b[0] + a[1]*b[1] + a[2]*b[2]
+
 def add_polygon( polygons, x0, y0, z0, x1, y1, z1, x2, y2, z2 ):
     add_point(polygons, x0, y0, z0)
     add_point(polygons, x1, y1, z1)
@@ -29,7 +32,7 @@ def draw_polygons( polygons, screen, color ):
         magb = mag(b)
         magc = mag(c)
 
-        eps = .01
+        eps = .005
         draw = False
         if maga < eps or magb < eps or magb < eps:
             draw = True
